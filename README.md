@@ -4,7 +4,7 @@ This example allows you to deploy a remote MCP server that doesn't require authe
 
 ## Get started: 
 
-[![Deploy to Workers](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/Sebzo-work/ResearchDayWorkshopExample_202604)
+[![Deploy to Workers](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/Sebzo-work/researchdayworkshopexample_202604)
 
 This will deploy your MCP server to a URL like: `remote-mcp-server-authless.<your-account>.workers.dev/sse`
 
